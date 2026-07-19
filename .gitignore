@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ML Models
+models/*.bin
+models/*.pt
+models/*.pth
+vectorDB/*.faiss
+vectorDB/*.pkl
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
