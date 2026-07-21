@@ -4,7 +4,8 @@ An Intelligent AI Chatbot for Automatic Note Summarization and Simplified Learni
 
 ## Features
 
-- **Document Upload**: Support for PDF, DOCX, and TXT files with OCR for scanned documents
+- **Document Upload**: Support for PDF, DOCX, and TXT files with OCR for scanned documents.
+
 - **Multi-Level Summarization**: Generate summaries at different levels (1-line, bullet points, 50-word, 150-word)
 - **Text Simplification**: Simplify complex text to different reading levels (elementary to college)
 - **Explain Like I'm 10**: Extreme simplification for children using simple analogies
